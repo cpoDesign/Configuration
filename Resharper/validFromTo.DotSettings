@@ -1,0 +1,15 @@
+<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EB53FA057CBCAD4D9BE7B317641D596F/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EB53FA057CBCAD4D9BE7B317641D596F/Shortcut/@EntryValue">ValidFromTo</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EB53FA057CBCAD4D9BE7B317641D596F/Text/@EntryValue">$pp$.$ValidFromDate$ &lt; DateTime.Now &amp;&amp; ($pp$.$ValidToDate$ == null || $pp$.$ValidToDate$.Value &gt; DateTime.Now)</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EB53FA057CBCAD4D9BE7B317641D596F/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EB53FA057CBCAD4D9BE7B317641D596F/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EB53FA057CBCAD4D9BE7B317641D596F/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EB53FA057CBCAD4D9BE7B317641D596F/Scope/=139FF4CE89E7094686FDA7BF5FFBBE92/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EB53FA057CBCAD4D9BE7B317641D596F/Scope/=139FF4CE89E7094686FDA7BF5FFBBE92/Type/@EntryValue">Everywhere</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EB53FA057CBCAD4D9BE7B317641D596F/Field/=pp/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EB53FA057CBCAD4D9BE7B317641D596F/Field/=pp/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EB53FA057CBCAD4D9BE7B317641D596F/Field/=ValidFromDate/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EB53FA057CBCAD4D9BE7B317641D596F/Field/=ValidFromDate/Order/@EntryValue">1</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EB53FA057CBCAD4D9BE7B317641D596F/Field/=ValidToDate/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EB53FA057CBCAD4D9BE7B317641D596F/Field/=ValidToDate/Order/@EntryValue">2</s:Int64></wpf:ResourceDictionary>
